@@ -24,7 +24,7 @@
  ##
   
 <div>
-    <a href="https://www.linkedin.com/in/guilherme-de-assis-a62041198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/adriano-cavalcante-27a147172/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 Footer
 © 2023 GitHub, Inc.
