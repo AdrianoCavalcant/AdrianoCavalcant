@@ -1,6 +1,6 @@
 ## Welcome! I'm Adriano 😊
 
- - 🏢 I'm currently studying Back-End
+ - 🏢 I'm currently studying Front-End
  
  ##
 
